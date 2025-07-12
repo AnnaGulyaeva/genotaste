@@ -1,0 +1,4 @@
+# Example 23andMe/MyHeritage TXT file
+rs713598	CC
+rs1726866	CT
+rs10246939	TT
