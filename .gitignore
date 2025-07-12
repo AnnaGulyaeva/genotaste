@@ -1,0 +1,10 @@
+# genotaste
+.pybiomart.sqlite
+
+# Ignore Python cache files
+venv/
+
+__pycache__/
+
+info/
+TODO
